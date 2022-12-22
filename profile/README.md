@@ -7,12 +7,12 @@
 
 <h4 align="center">
   <a href="https://www.mithrilsecurity.io">Website</a> |
+  <a href="https://discord.gg/TxEHagpWd4">Discord</a> |
   <a href="https://www.linkedin.com/company/mithril-security-company/">LinkedIn</a> |
+  <a href="https://www.twitter.com/mithrilsecurity">Twitter</a> |
   <a href="https://blog.mithrilsecurity.io/">Blog</a> |
-  <a href="https://hub.docker.com/u/mithrilsecuritysas">Docker Hub</a> |
-  <a href="https://www.twitter.com/mithrilsecurity">Twitter</a> | 
-  <a href="https://discord.gg/TxEHagpWd4">Discord</a> | 
-  <a href="https://blog.mithrilsecurity.io/our-roadmap-at-mithril-security/">Roadmap</a> | 
+  <a href="https://hub.docker.com/u/mithrilsecuritysas">Docker Hub</a> |  
+  <a href="https://mithril-security.notion.site/513af0ada2584e0f837776a7f6649ab4?v=cf664187c13149a4b667d9c0ae3ed1c0">Roadmap</a> | 
   <a href="https://mithril-security.welcomekit.co/">Join us</a>
 </h4>
 
