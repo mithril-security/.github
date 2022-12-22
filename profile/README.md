@@ -19,16 +19,18 @@
 
 ## 🏠 Who are we?
 
-Mithril Security is a deeptech cybersecurity startup dedicated to make data analysis more secure and privacy friendly.
+Mithril Security is a startup aiming to make privacy-friendly data science easy - so data scientists and data owners can collaborate without friction.
 
-Mithril Security provides a zero-trust middleware for AI, to enable users to benefit from AI without revealing their data. We help AI providers secure their client’s data to gain their trust, and facilitate compliance in highly regulated areas. We leverage confidential computing to guarantee users’ privacy, through end-to-end encryption.
+Our solutions apply Privacy Enhancing Technologies and security best practices, like Differential Privacy and Confidential Computing.
 
 ## 🔐 Protect data at all times
 
-Our goal is to give users the power to utilize cutting-edge security with BlindAI to gain from AI predictions without jeopardizing user data. AI forecasts can be obtained with the assurance that they have never been divulged or made plain, even when working with sensitive data. Data is still end-to-end protected because of the hardware security offered by Intel SGX on top of the software layer we offer (at rest, in transit, and in use).
+Our goal is to give data owners and data scientists a simple privacy framework for data science collaboration. Which is why we're building the first open-source privacy toolkit for data exploration, AI training, *and* deployment.
 
-Although a traditional AI identification system exposes data, our method keeps it safe.
+We have two projects:
+- [BastionLab](https://github.com/mithril-security/bastionlab), an access-control privacy solution with which we handle data exploration and AI training.
+- [BlindAI](https://github.com/mithril-security/blindai), a confidential inference server for deployement.
 
-## Show your support
+## ⭐ Show your support
 
-Don't hesitate to navigate through our repositories and give us a ⭐️ if you liked one of our projects !
+You can go check out our repositories and give us a ⭐️ if you liked one of our projects!
