@@ -25,10 +25,11 @@ Our solutions apply Privacy Enhancing Technologies and security best practices, 
 
 ## 🔐 Protect data at all times
 
-Our goal is to give data owners and data scientists a simple privacy framework for data science collaboration. Which is why we're building the first open-source privacy toolkit for data exploration, AI training, *and* deployment.
+Our goal is to give **data owners and data scientists** a **simple privacy framework for data science collaboration**. 
+Which is why we're building the first open-source privacy toolkit for data exploration, AI training, *and* deployment.
 
 We have two projects:
-- [BastionLab](https://github.com/mithril-security/bastionlab), an access-control privacy solution with which we handle data exploration and AI training.
+- [BastionLab](https://github.com/mithril-security/bastionlab), an access-control privacy framework to do remote data exploration and AI training.
 - [BlindAI](https://github.com/mithril-security/blindai), a confidential inference server for deployement.
 
 ## ⭐ Show your support
