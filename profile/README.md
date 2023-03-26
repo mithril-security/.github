@@ -30,7 +30,7 @@ Which is why we're building the first open-source privacy toolkit for data explo
 
 We have two projects:
 - [BastionLab](https://github.com/mithril-security/bastionlab), an access-control privacy framework to do remote data exploration and AI training.
-- [BlindAI](https://github.com/mithril-security/blindai-preview), a confidential inference server for deployement.
+- [BlindAI](https://github.com/mithril-security/blindai), a confidential inference server for deployement.
 
 ## ⭐ Show your support
 
