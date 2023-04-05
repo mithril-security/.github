@@ -9,28 +9,26 @@
   <a href="https://www.mithrilsecurity.io">Website</a> |
   <a href="https://discord.gg/TxEHagpWd4">Discord</a> |
   <a href="https://www.linkedin.com/company/mithril-security-company/">LinkedIn</a> |
-  <a href="https://www.twitter.com/mithrilsecurity">Twitter</a> |
   <a href="https://blog.mithrilsecurity.io/">Blog</a> |
-  <a href="https://hub.docker.com/u/mithrilsecuritysas">Docker Hub</a> |  
-  <a href="https://mithril-security.notion.site/513af0ada2584e0f837776a7f6649ab4?v=cf664187c13149a4b667d9c0ae3ed1c0">Roadmap</a> | 
+  <a href="https://hub.docker.com/u/mithrilsecuritysas">Docker Hub</a> | 
   <a href="https://mithril-security.welcomekit.co/">Join us</a>
 </h4>
 
 
 ## 🏠 Who are we?
 
-Mithril Security is a startup aiming to make privacy-friendly data science easy - so data scientists and data owners can collaborate without friction.
+Mithril Security develops a data protection and privacy solution for AI analysis. We help developpers, AI engineers and companies to protect their sensitive data when leveraging AI SaaS solutions, enabling them to innovate quickly while preventing leakage risks. 
 
-Our solutions apply Privacy Enhancing Technologies and security best practices, like Differential Privacy and Confidential Computing.
+We are experts in Confidential Computing, a cybersecurity technology we use to ensure that data sent to our APIs remains encrypted from end to end.
 
 ## 🔐 Protect data at all times
 
-Our goal is to give **data owners and data scientists** a **simple privacy framework for data science collaboration**. 
-Which is why we're building the first open-source privacy toolkit for data exploration, AI training, *and* deployment.
+Our main project is: 
+- [BlindAI](https://github.com/mithril-security/blindai), an open-source solution allowing users to query popular AI models or serve their own models with assurances that users' data will remain private. 
 
-We have two projects:
+We're also working on : 
+- [Confidential Computing Explained], a series of beginner-friendly tutorials to learn how to implement confidential computing solutions.
 - [BastionLab](https://github.com/mithril-security/bastionlab), an access-control privacy framework to do remote data exploration and AI training.
-- [BlindAI](https://github.com/mithril-security/blindai), a confidential inference server for deployement.
 
 ## ⭐ Show your support
 
