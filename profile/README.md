@@ -27,7 +27,7 @@ Our main project is:
 - [BlindAI](https://github.com/mithril-security/blindai), an open-source solution allowing users to query popular AI models or serve their own models with assurances that users' data will remain private. 
 
 We're also working on : 
-- [Confidential Computing Explained], a series of beginner-friendly tutorials to learn how to implement confidential computing solutions.
+- [Confidential Computing Explained](https://github.com/mithril-security/Confidential_Computing_Explained), a series of beginner-friendly tutorials to learn how to implement confidential computing solutions.
 - [BastionLab](https://github.com/mithril-security/bastionlab), an access-control privacy framework to do remote data exploration and AI training.
 
 ## ⭐ Show your support
