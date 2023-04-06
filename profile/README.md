@@ -10,8 +10,7 @@
   <a href="https://discord.gg/TxEHagpWd4">Discord</a> |
   <a href="https://www.linkedin.com/company/mithril-security-company/">LinkedIn</a> |
   <a href="https://blog.mithrilsecurity.io/">Blog</a> |
-  <a href="https://hub.docker.com/u/mithrilsecuritysas">Docker Hub</a> | 
-  <a href="https://mithril-security.welcomekit.co/">Join us</a>
+  <a href="https://hub.docker.com/u/mithrilsecuritysas">Docker Hub</a>
 </h4>
 
 
