@@ -23,7 +23,7 @@ We are experts in Confidential Computing, a cybersecurity technology we use to e
 ## 🔐 Protect data at all times
 
 Our main project is: 
-- [BlindAI](https://github.com/mithril-security/blindai), an open-source solution allowing users to query popular AI models or serve their own models with assurances that users' data will remain private. 
+- [BlindAI](https://github.com/mithril-security/blindai), open-source solution to query and deploy AI models while guaranteeing data privacy. 
 
 We're also working on : 
 - [Confidential Computing Explained](https://github.com/mithril-security/Confidential_Computing_Explained), a series of beginner-friendly tutorials to learn how to implement confidential computing solutions.
