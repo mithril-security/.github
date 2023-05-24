@@ -18,7 +18,7 @@
 
 Mithril Security develops a data protection and privacy solution for AI analysis. We help SaaS vendors, developers and companies to protect their sensitive data when leveraging SaaS solutions, enabling them to innovate quickly while preventing leakage risks. 
 
-We are experts in Confidential Computing, a cybersecurity technology we use to ensure that data sent to our APIs remains encrypted from end to end.
+We are experts in Confidential Computing, a cybersecurity technology we use to ensure that data sent to our APIs remains protected from end to end.
 
 ## 🔐 Protect data at all times
 
