@@ -26,7 +26,7 @@ Our main project is:
 
 - [BlindBox](https://github.com/mithril-security/blindbox), our open-source solution to deploy and query SaaS applications while guaranteeing data privacy. 
 
-We're also working on : 
+We worked on the following projects previously, but they are no longer maintained:
 - [Confidential Computing Explained](https://github.com/mithril-security/Confidential_Computing_Explained), a series of beginner-friendly tutorials to learn how to implement confidential computing solutions.
 - [BlindAI](https://github.com/mithril-security/blindai), an open-source solution to query and deploy AI models while guaranteeing data privacy. 
 - [BastionLab](https://github.com/mithril-security/bastionlab), an access-control privacy framework to do remote data exploration and AI training.
