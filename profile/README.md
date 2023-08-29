@@ -22,9 +22,9 @@ We are experts in Confidential Computing, a fast-growing field within cybersecur
 
 ## 🔐 Protect data at all times
 
-Our main project is: 
+Our main project is:
 
-- [BlindLlama](https://github.com/mithril-security/blind_llama), our open-source Zero-trust AI API which serves popular open-source AI models while ensuring users’ data is not exposed to the AI provider thanks to end-to-end protection with secure hardware.
+- [BlindLlama](https://github.com/mithril-security/blind_llama), an open-source Zero-trust AI API that serves popular AI models while ensuring users’ data is not exposed to the AI provider thanks to end-to-end protection with secure hardware.
 
 BlindLLama builds on our previous open-source projects (some of which are no longer maintained):
 
