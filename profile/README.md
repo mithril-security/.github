@@ -16,21 +16,27 @@
 
 ## 🏠 Who are we?
 
-Mithril Security develops a data protection and privacy solution for AI analysis. We help SaaS vendors, developers and companies to protect their sensitive data when leveraging SaaS solutions, enabling them to innovate quickly while preventing leakage risks. 
+Mithril Security is a startup focused on democratizing privacy-friendly AI by leveraging secure hardware. Our solutions ensure that the data of AI end users remains confidential and protected at all times- even from the AI providers themselves!
 
-We are experts in Confidential Computing, a cybersecurity technology we use to ensure that data sent to our APIs remains protected from end to end.
+We are experts in Confidential Computing, a fast-growing field within cybersecurity that centers on the protection of data during computation through isolation and attestation.
 
 ## 🔐 Protect data at all times
 
 Our main project is: 
 
-- [BlindBox](https://github.com/mithril-security/blindbox), our open-source solution to deploy and query SaaS applications while guaranteeing data privacy. 
+- [BlindLlama](https://github.com/mithril-security/blind_llama), our open-source Zero-trust AI API which serves popular open-source AI models while ensuring users’ data is not exposed to the AI provider thanks to end-to-end protection with secure hardware.
 
-We worked on the following projects previously, but they are no longer maintained:
-- [Confidential Computing Explained](https://github.com/mithril-security/Confidential_Computing_Explained), a series of beginner-friendly tutorials to learn how to implement confidential computing solutions.
-- [BlindAI](https://github.com/mithril-security/blindai), an open-source solution to query and deploy AI models while guaranteeing data privacy. 
-- [BastionLab](https://github.com/mithril-security/bastionlab), an access-control privacy framework to do remote data exploration and AI training.
+BlindLLama builds on our previous open-source projects (some of which are no longer maintained):
+
+- [BlindAI](https://github.com/mithril-security/blindai), a solution for querying and deploying AI models while guaranteeing end-user data privacy, audited by [Quarkslab](https://www.quarkslab.com/).
+- [BlindBox](https://github.com/mithril-security/blindbox), a SaaS deployment solution that boosts compliance and improves the security posture of SaaS solutions by shielding end users' data at all times- including from the SaaS providers themselves.
+- [BastionLab](https://github.com/mithril-security/bastionlab), an access-control privacy framework for remote data exploration and AI training.
+
+## Resources
+
+- [Mithril Security's Blog](https://blog.mithrilsecurity.io/) - We regularly post articles and demos relating to privacy and security in AI and secure hardware. 
+- [Confidential Computing Explained](https://github.com/mithril-security/Confidential_Computing_Explained)- This is our series of beginner-friendly tutorials covering how to implement confidential computing solutions.
 
 ## ⭐ Show your support
 
-You can go check out our repositories and give us a ⭐️ if you liked one of our projects!
+You can check out our repositories and give us a ⭐️ if you like our projects!
