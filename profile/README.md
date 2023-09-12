@@ -16,7 +16,7 @@
 
 ## 🏠 Who are we?
 
-Mithril Security is a startup focused on democratizing privacy-friendly AI by leveraging secure hardware. Our solutions ensure that the data of AI end users remains confidential and protected at all times- even from the AI providers themselves!
+Mithril Security is a startup focused on democratizing privacy-friendly AI by leveraging secure hardware. Our solutions aim to ensure that the AI users' data remains confidential and protected at all times!
 
 We are experts in Confidential Computing, a fast-growing field within cybersecurity that centers on the protection of data during computation through isolation and attestation.
 
