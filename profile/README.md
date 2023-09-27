@@ -9,7 +9,7 @@
   <a href="https://www.mithrilsecurity.io">Website</a> |
   <a href="https://discord.gg/TxEHagpWd4">Discord</a> |
   <a href="https://www.linkedin.com/company/mithril-security-company/">LinkedIn</a> |
-  <a href="https://blog.mithrilsecurity.io/">Blog</a> |
+  <a href="https://blog.mithrilsecurity.io/">Blog</a>
 </h4>
 
 
