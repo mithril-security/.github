@@ -16,19 +16,17 @@
 
 ## 🏠 Who are we?
 
-Mithril Security is a startup focused on democratizing privacy-friendly AI by leveraging secure hardware. Our solutions aim to ensure that the AI users' data remains confidential and protected at all times!
+Mithril Security is a security startup focused on democratizing privacy-by-design AI through open-source projects.
 
-We are experts in Confidential Computing, a fast-growing field within cybersecurity that centers on the protection of data during computation through isolation and attestation.
+Our main product is [BlindChat](https://github.com/mithril-security/blind_chat), a privacy-first Conversational AI, that helps users leverage AI with guarantees their data always remains private.
 
-## 🔐 Protect data at all times
+Thanks to our confidential infrastructure, not even our admins are able to see the prompts sent to our Conversational AI as they remain end-to-end protected. This tackles the growing privacy concerns related to using Conversational AI by enabling users to query AI models without exposing their data to the AI provider. 
 
-Our main project is:
+## 📚 Archives
 
-- [BlindLlama](https://github.com/mithril-security/blind_llama), an open-source project to serve Zero-trust AI APIs to help evaluate popular AI models while ensuring users’ data is not exposed to the AI provider thanks to end-to-end protection with secure hardware.
+BlindChat leverages Confidential AI APIs deployed with [BlindLlama](https://github.com/mithril-security/blind_llama), an open-source project to serve AI models privately.
 
-## 📚 Archives 
-
-BlindLLama builds on our previous open-source projects (some of which are no longer maintained):
+Our current projects build on our previous open-source projects (some of which are no longer maintained):
 
 - [BlindAI](https://github.com/mithril-security/blindai), a solution for querying and deploying AI models while guaranteeing end-user data privacy, audited by [Quarkslab](https://www.quarkslab.com/).
 - [BlindBox](https://github.com/mithril-security/blindbox), a SaaS deployment solution that boosts compliance and improves the security posture of SaaS solutions by shielding end users' data at all times- including from the SaaS providers themselves.
