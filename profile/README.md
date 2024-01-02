@@ -21,7 +21,7 @@ Our main product is [BlindChat](https://github.com/mithril-security/blind_chat),
 
 Thanks to our confidential infrastructure, not even our admins are able to see the prompts sent to our Conversational AI as they remain end-to-end protected. This tackles the growing privacy concerns related to using Conversational AI by enabling users to query AI models without exposing their data to the AI provider. 
 
-BlindChat is a confidential conversational AI deployed with [BlindLlama](https://github.com/mithril-security/blind_llama), our open-source project to serve AI privately by leveraging enclaves.
+BlindChat is deployed with [BlindLlama](https://github.com/mithril-security/blind_llama), our open-source project to serve AI privately by leveraging enclaves.
 
 ## 📚 Archives
 
